@@ -11,6 +11,8 @@
 ```
 
 cd Newsletter-Signup(folder)
+npm init
+npm i body-parse
 nodemon app.js
 
 ```
